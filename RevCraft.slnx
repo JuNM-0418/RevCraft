@@ -1,0 +1,6 @@
+<Solution>
+  <Project Path="../Installer/Installer.vdproj" Type="Installer" />
+  <Project Path="RevCraft.csproj">
+    <BuildType Project="Release" />
+  </Project>
+</Solution>
